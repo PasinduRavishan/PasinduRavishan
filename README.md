@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pasindu Ravishan!
 
-🎓 I'm an undergraduate student at the Department of Chemical & Process Engineering, University of Moratuwa.  
+🎓 I'm an undergraduate student at the Department of Computer Science & Engineering, University of Moratuwa.  
 💡 Passionate about IoT Systems, Blockchain Development, and Full-Stack Software Engineering.  
 🚀 Currently working on exciting projects like **VeloCity** (IoT-Based Bicycle Renting System) and **Blockchain-Based Order Tracking** using Hyperledger Fabric.
 
