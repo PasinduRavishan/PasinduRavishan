@@ -30,6 +30,11 @@
 
 ---
 
+## 👾 My Coding Activity Game
+
+![GitHub Space Shooter](game.gif)
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=PasinduRavishan&style=for-the-badge)
 
 ---
